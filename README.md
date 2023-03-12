@@ -10,5 +10,6 @@ A simple website made by using html , css , javscript. Basically plays a specifi
 
 
 ## Screenshots
-![img](https://user-images.githubusercontent.com/114288809/214638865-ca68faf6-e091-4c0d-9e3e-f14492eda662.png)
+
+![drum kit](https://user-images.githubusercontent.com/113968917/224548676-7529445f-e094-42dd-9036-9e36cb90804a.jpg)
 
