@@ -4,10 +4,6 @@
 A simple website made by using html , css , javscript. Basically plays a specific drum beat on pressing some keys !
 
 
-## 🔗 Links
-[🥁Project_link🎸](https://aniket-jain-aman.github.io/WebD_Angela_Course_Task_1/)
-
-
 
 ## Screenshots
 
